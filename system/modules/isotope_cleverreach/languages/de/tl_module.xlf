@@ -1,0 +1,42 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="system/modules/core/languages/en/tl_module.php" source-language="en">
+    <body>
+      <trans-unit id="tl_module.iso_enableCleverReachSignup.0">
+        <source>Contains Newsletter Signup?</source>
+        <target>Enthält Anmeldung zum Newsletter?</target>
+      </trans-unit>
+      <trans-unit id="tl_module.iso_enableCleverReachSignup.1">
+        <source>Click here if your conditions form contains a checkbox to enable newsletter signup.</source>
+        <target>Klicken Sie hier wenn Ihr Formular eine Checkbox zur Anmeldung für einen Newsletter enthält.</target>
+      </trans-unit>
+
+      <trans-unit id="tl_module.iso_cleverReachNLCheck.0">
+        <source>Checkbox for signup</source>
+        <target>Checkbox für Anmeldung</target>
+      </trans-unit>
+      <trans-unit id="tl_module.iso_cleverReachNLCheck.1">
+        <source>Please choose the checkbox used for singup.</source>
+        <target>Bitte wählen Sie die Checkbox die zur Anmeldung genutzt wird.</target>
+      </trans-unit>
+
+      <trans-unit id="tl_module.iso_cleverReachAPIKey.0">
+        <source>CleverReach API Key</source>
+        <target>CleverReach API Schlüssel</target>
+      </trans-unit>
+      <trans-unit id="tl_module.iso_cleverReachAPIKey.1">
+        <source>Please enter your API Key.</source>
+        <target>Bitte geben Sie Ihren API-Schlüssel ein.</target>
+      </trans-unit>
+
+      <trans-unit id="tl_module.iso_cleverReachGroup.0">
+        <source>CleverReach Group</source>
+        <target>CleverReach Empfängergruppe</target>
+      </trans-unit>
+      <trans-unit id="tl_module.iso_cleverReachGroup.1">
+        <source>Please choose your receiver group.</source>
+        <target>Bitte wählen Sie eine Empfängergruppe.</target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>
